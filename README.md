@@ -1,2 +1,2 @@
 # driftlight-site
-The site of the classic game Driflight
+The site of the classic game Driftlight
